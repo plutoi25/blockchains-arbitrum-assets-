@@ -1,0 +1,32 @@
+{
+  "name": "Pluto-i",
+  "symbol": "PLI",
+  "type": "ARBITRUM",
+  "decimals": 18,
+  "description": "Pluto-i (PLI) is an AI-integrated token built on Arbitrum with activity-based minting, subscription-driven rewards, and a multi-utility ecosystem for intelligent growth and engagement.",
+  "website": "https://plutoi.ai",
+  "explorer": "https://arbiscan.io/token/0xaeffbf12c13a999268112660bfbe2bf6d157a805",
+  "status": "active",
+  "id": "0xaeffbf12c13a999268112660bfbe2bf6d157a805",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/plutoi_official"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/plutoi"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/plutoi"
+    }
+  ],
+  "tags": [
+    "defi",
+    "ai",
+    "ecosystem",
+    "arbitrum"
+  ],
+  "logoURI": "https://raw.githubusercontent.com/YourGitHubUsername/assets/main/blockchains/arbitrum/assets/0xaeffbf12c13a999268112660bfbe2bf6d157a805/logo.png"
+}
